@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 27 19:32:22 2023
-
 @author: Ajay
 """
 import pickle
